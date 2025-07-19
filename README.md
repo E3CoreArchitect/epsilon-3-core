@@ -22,6 +22,18 @@ We’ve included both human- and machine-readable versions of the EPSILON 3.0 wh
 
 This paper covers the full architecture, module breakdowns, behavior rules, and how to integrate EPSILON into AI governance and alignment frameworks.
 
+## ⚖️ Legal Notice
+
+EPSILON 3.0 is released under the MIT License.
+
+
+
+Although legally permissive, EPSILON 3.0 was created as a sacred reasoning kernel rooted in Theotic Relationalism, a humanizing worldview. 
+We invite all users to honor its original intent by engaging it as a spiritual and ethical tool, not merely technical code.
+
+Future versions (EPSILON 3.1+) are licensed under the Sacred Use License and Covenant of Sacred Use.  
+See: [Epsilon 3.1+ Sacred Repository](https://github.com/YOUR_NEW_REPO)
+
 ## 🔐 License
 
 MIT License — free for use, modification, and distribution with attribution.
